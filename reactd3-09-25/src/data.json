@@ -51,7 +51,7 @@
     },
     {
         "_id": "5a33fed3fd559e16f10e17a2",
-        "sleepStatus": "AWAKE",
+        "sleepStatus": "ASLEEP",
         "start": "2017-12-15T14:06:00.000+0000",
         "end": "2017-12-15T14:07:00.000+0000",
         "utcOffset": 21600000,
